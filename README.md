@@ -8,7 +8,7 @@
 	- mobi版本
 	- epub版本
 	- 英文版
-3. javascript权威指南（第四版）
+3. javascript权威指南（第四版）（2020年 9 月第 2 版）
 	- pdf版本
 	
 	
